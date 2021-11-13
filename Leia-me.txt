@@ -1,0 +1,39 @@
+Como o Baileys Multi Device (MD) ainda esta em beta vc notara alguns bugs, e instabilidade, mas acho que com o tempo isso ira ser corrigido.
+
+1 - Base.
+
+Nessa Base contem:
+
+Console log configurado;
+
+Alguns comandos de grupo;
+
+Imagens aleatorias;
+
+Menu configurado;
+
+Base Enviar Imagens, Enviar Figurinhas, Enviar Mensagens, Enviar gifs e audios;
+
+Base de comandos textpro.
+
+Obs: Apenas o basico para vc começar a montar seu bot.
+
+[ Ainda falta algumas ifs nos comandos de grupos, porem fiquei sem tempo para colocar. ]
+
+
+2 - Vantagens.
+
+
+4 dispositivos simultaneamente;
+
+Funciona independente do celular;
+
+Conecta ao whatsapp via WebSocket.
+
+
+3 - Creditos.
+
+Agradecimentos total a WhatsApp Web API Baileys MD
+
+https://github.com/adiwajshing/baileys/tree/multi-device
+
